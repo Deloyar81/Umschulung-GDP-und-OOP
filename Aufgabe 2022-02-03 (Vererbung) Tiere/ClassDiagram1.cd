@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Aufgabe_2022_02_03__Vererbung__Tiere.Tier">
+    <Position X="6" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIAAAAAAEAAAAACAIAAAMAAAAAAAAAAgAAAAAAEAAAA=</HashCode>
+      <FileName>Tier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aufgabe_2022_02_03__Vererbung__Tiere.Uhu">
+    <Position X="6" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Uhu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aufgabe_2022_02_03__Vererbung__Tiere.Baummarder">
+    <Position X="8.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Baummarder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aufgabe_2022_02_03__Vererbung__Tiere.Eichhoernchen">
+    <Position X="4" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Eichhoernchen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

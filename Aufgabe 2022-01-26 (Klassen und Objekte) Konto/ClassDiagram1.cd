@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Person">
+    <Position X="3" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEAAAAABAgAAAQABAAAAAQAAAAAAgABKAAAACAAQAAA=</HashCode>
+      <FileName>Beziehung.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Konto">
+    <Position X="5.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAABIAAACQEAAAIAAAAAAAEA=</HashCode>
+      <FileName>Beziehung.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Adresse">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAWAgAAAA=</HashCode>
+      <FileName>Beziehung.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
